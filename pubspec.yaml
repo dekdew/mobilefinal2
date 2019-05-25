@@ -25,7 +25,6 @@ dependencies:
   cupertino_icons: ^0.1.2
 
   sqflite: any
-  toast: ^0.1.3
   http: ^0.12.0
   shared_preferences: ^0.5.2+1
   path_provider: ^1.1.0
